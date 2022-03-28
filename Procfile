@@ -1,1 +1,1 @@
-worker: bash live.sh
+web: bash live.sh
